@@ -1,4 +1,0 @@
-#Introduction
-print('Hello, I am Chatbot 2.0. I am a chatbot.')
-name = input('What is your name?')
-print('Hello', name, ', nice to meet you')
